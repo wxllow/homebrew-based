@@ -1,4 +1,6 @@
-# Wxllow Based
+# Based
+
+A homebrew tap for cool apps that have less than 75 stars
 
 ## How do I install these formulae?
 
