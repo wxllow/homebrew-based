@@ -1,6 +1,6 @@
 cask "applemusicrp" do
-  version "3.0.0"
-  sha256 "6c676cb60d3ab3bcb9380556fa8bf29f1b29b7f9edb6ad6ba5ce4eec760c6d24"
+  version "3.1.0"
+  sha256 "de82bb6e9e917eff59705acf7728c9b98936c4dbe1d16df13462d666f4c50c92"
 
   url "https://github.com/wxllow/applemusicrp/releases/download/#{version}/AppleMusicRP.dmg"
   name "AppleMusicRP"
