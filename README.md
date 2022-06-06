@@ -1,6 +1,6 @@
 # Based
 
-A homebrew tap for cool apps that have less than 75 stars
+A homebrew tap for based things
 
 ## How do I install these formulae?
 
